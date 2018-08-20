@@ -5,4 +5,4 @@ def display_board
     puts ("-----------")
     puts row = ["   ""|"   ""|"""   "]
     puts ("-----------")
-puts ("   "'|'"   "'|'"   ")
+    puts row = ["   ""|"   ""|"""   "]
