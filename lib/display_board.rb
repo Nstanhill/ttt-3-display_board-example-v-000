@@ -1,6 +1,8 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-puts row = ["   ""|"   ""|"""   "]
-puts ("-----------")
+def display_board
+  puts ("Welcome to Tic Tac Toe")
+  puts row = ["   ""|"   ""|"""   "]
+  puts ("-----------")
 puts row = ["   ""|"   ""|"""   "]
 puts ("-----------")
 puts ("   "'|'"   "'|'"   ")
